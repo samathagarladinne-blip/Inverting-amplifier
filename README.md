@@ -1,0 +1,2 @@
+# Inverting-amplifier
+inverting amplifier
